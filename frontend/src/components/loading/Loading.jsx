@@ -14,7 +14,7 @@ const Loading = () => {
         </div>
 
         {/* Loading Text */}
-        <h2 className="text-2xl font-bold text-gradient mb-4">E-Learning</h2>
+        <h2 className="text-2xl font-bold text-gradient mb-4">CourseVerse</h2>
         <p className="text-gray-600 mb-8">Loading your learning experience...</p>
 
         {/* Modern Loading Animation */}
